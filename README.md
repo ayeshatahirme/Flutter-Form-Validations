@@ -1,7 +1,7 @@
 # flutter_forms
 
 A new Flutter project.
-
+It is the shape, visual appearance, or configuration of an object. In a wider sense, the form is the way something happens.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
